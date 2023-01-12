@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Semester 1 Assignment Submission
+MTech Semester 1 Assignment Submission
